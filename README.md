@@ -6,7 +6,7 @@ This repository is work in progress, documenting my own journey in Python and Ju
 
 In this initial version, you will find 3 labs:
 
-1. [ZeroD.ipynb](teaching_notebooks/ZeroD.ipynb) implements a zero-dimensional model of Earth's climate, closely following [Pierrehumbert et al, 2011](http://www.annualreviews.org/doi/abs/10.1146/annurev-earth-040809-152447)
+1. [ZeroD.ipynb](ZeroD.ipynb) implements a zero-dimensional model of Earth's climate, closely following [Pierrehumbert et al, 2011](http://www.annualreviews.org/doi/abs/10.1146/annurev-earth-040809-152447)
 
 2. [lorenz_climatechange.ipynb](teaching_notebooks/lorenz_climatechange.ipynb) provides a nonlinear dynamical perspective on climate change, emulating much of the analysis of [Palmer (1999}](https://www.researchgate.net/publication/235703704_A_Nonlinear_Dynamical_Perspective_on_Climate_Prediction).  The ODE solver for the Lorenz system was gratefully borrowed from the amazing [jakevdp](https://jakevdp.github.io/blog/2013/02/16/animating-the-lorentz-system-in-3d/).
 
